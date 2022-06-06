@@ -10,6 +10,14 @@ img {
 img.lado {
     float: right;
 }
+
+audio#musica {
+    display: block;
+    position: relative;
+    top: 320px;
+    left: 500px;
+}
+
 div#interface {
     display: block;
     background-color: white;
