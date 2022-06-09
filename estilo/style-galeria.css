@@ -23,7 +23,7 @@ ul#album-fotos li {
 
 ul#album-fotos li span {
     opacity: 0;
-    color: #ffffff;
+    color: #ffffffd7;
     text-shadow: 1px 1px 1px #000000;
     background-color: rgba(0, 0, 0, 0.3);
     font-size: 9pt;
@@ -40,7 +40,7 @@ ul#album-fotos li:hover span {
 }
 
 ul#album-fotos li#foto01 {
-    background: url('../_imagens/galeria-01.jpg') no-repeat;
+    background: url('../imagens/foto-01.png') no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
