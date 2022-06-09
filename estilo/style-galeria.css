@@ -51,7 +51,7 @@ ul#album-fotos li#foto01:hover {
 }
 
 ul#album-fotos li#foto02 {
-    background: url('../_imagens/galeria-02.jpg') no-repeat;
+    background: url('../imagens/foto-02.png') no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
