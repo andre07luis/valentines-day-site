@@ -2,6 +2,14 @@ body {
     background-image:url('../imagens/background.jpg');
 }
 
+#botaovoltar {
+    filter: drop-shadow(0px 0px 1px black);
+}
+
+#botaovoltar:hover {
+    filter: drop-shadow(0px 0px 3px #c71074);
+}
+
 p {
     font-size: 22px;
     text-align: justify;
